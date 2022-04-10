@@ -30,6 +30,7 @@ console.log(keyPressed);
 
 	if(keyPressed == '82')
 	{
+		block_x = 0;
 		new_image('rr1.png');
 		console.log("r");
 	}
